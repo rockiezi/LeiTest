@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-def
-=======
 abc
->>>>>>> origin/master
+def
